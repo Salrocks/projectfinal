@@ -1,0 +1,61 @@
+
+header{
+
+	color: red;
+	font-size: 40px;
+	text-align: center;
+}
+
+
+
+body{
+
+	background: black;
+	color:hotpink;
+}
+
+
+h1{
+
+font-size: 30px;
+
+
+}
+
+
+h2{
+
+
+	font-size: 25px;
+}
+
+
+h3 {
+
+	font-size: 25px;
+	color: green;
+	font-family: 'Rubik 80s Fade', cursive;
+}
+
+
+a.one:link {color:#ff0000;}
+a.one:visited {color:#0000ff;}
+a.one:hover {color:#ffcc00;}
+
+.one {
+
+
+font-size: 25px;
+}
+
+.right{
+
+position: center;
+
+
+
+
+
+
+
+}

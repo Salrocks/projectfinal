@@ -1,0 +1,67 @@
+
+
+body {
+background-color: black;
+color:hotpink;
+
+
+
+
+}
+
+.no{
+color: lightpink;
+text-align: left;
+word-spacing: 3px;
+
+}
+
+
+.yes{
+
+color: deeppink;
+text-align: left;
+word-spacing: 3px;
+
+
+
+}
+
+h1{
+
+color: green;
+word-spacing: 0px;
+font-family: 'Rubik 80s Fade', cursive;
+
+
+}
+
+
+div.a {
+  text-indent: 5%;
+}
+
+
+div.b {
+  text-indent: 5%;
+}
+
+div.c {
+  text-indent: 5%;
+}
+
+
+.navbar-brand{
+  color:hotpink;
+  font-family: 'Style Script', cursive;
+  font-size: 30px;
+  background-color: black;
+}
+
+.nav-item{
+  color:pink;
+}
+
+li a {
+  background-color: pink;
+}
